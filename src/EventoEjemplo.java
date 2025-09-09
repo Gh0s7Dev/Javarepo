@@ -24,4 +24,3 @@ public class EventoEjemplo {
         frame.setVisible(true);
     }
 }
-//Comentario de prueba
